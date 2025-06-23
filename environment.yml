@@ -1,0 +1,16 @@
+name: plotting_tutorial
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - xarray
+  - netcdf4
+  - pooch
+  - cmocean
+  - pandas
+  - matplotlib
+  - cartopy
+  - scipy
+  - jupyter
+  - notebook
